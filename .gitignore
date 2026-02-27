@@ -261,7 +261,11 @@ map_state.json
 
 analysis*
 
-game_files/
+game_files/episodes/
+game_files/.session/game_state.pkl
+game_files/.session/checkpoints/
+game_files/*.lock
+game_files/*.backup
 tmp/
 
 infrastructure/cdk.out/
@@ -269,3 +273,7 @@ infrastructure/cdk.out/
 zorkgpt/
 
 repomix-output.xml
+
+# Batty runtime (managed by batty install)
+.batty/logs/
+.batty/worktrees/

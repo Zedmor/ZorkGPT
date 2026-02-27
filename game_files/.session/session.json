@@ -1,0 +1,231 @@
+{
+  "episode_id": "38bdef2d",
+  "turn": 604,
+  "started_at": "2026-02-27T02:38:11.361604+00:00",
+  "score_history": [
+    {
+      "turn": 0,
+      "score": 0
+    },
+    {
+      "turn": 4,
+      "score": 10
+    },
+    {
+      "turn": 17,
+      "score": 35
+    },
+    {
+      "turn": 20,
+      "score": 40
+    },
+    {
+      "turn": 26,
+      "score": 54
+    },
+    {
+      "turn": 35,
+      "score": 64
+    },
+    {
+      "turn": 37,
+      "score": 68
+    },
+    {
+      "turn": 48,
+      "score": 83
+    },
+    {
+      "turn": 49,
+      "score": 89
+    },
+    {
+      "turn": 55,
+      "score": 93
+    },
+    {
+      "turn": 65,
+      "score": 103
+    },
+    {
+      "turn": 106,
+      "score": 113
+    },
+    {
+      "turn": 126,
+      "score": 118
+    },
+    {
+      "turn": 133,
+      "score": 123
+    },
+    {
+      "turn": 134,
+      "score": 133
+    },
+    {
+      "turn": 135,
+      "score": 139
+    },
+    {
+      "turn": 136,
+      "score": 144
+    },
+    {
+      "turn": 138,
+      "score": 138
+    },
+    {
+      "turn": 145,
+      "score": 148
+    },
+    {
+      "turn": 156,
+      "score": 163
+    },
+    {
+      "turn": 162,
+      "score": 167
+    },
+    {
+      "turn": 175,
+      "score": 172
+    },
+    {
+      "turn": 176,
+      "score": 183
+    },
+    {
+      "turn": 177,
+      "score": 188
+    },
+    {
+      "turn": 199,
+      "score": 198
+    },
+    {
+      "turn": 211,
+      "score": 208
+    },
+    {
+      "turn": 212,
+      "score": 214
+    },
+    {
+      "turn": 258,
+      "score": 219
+    },
+    {
+      "turn": 266,
+      "score": 224
+    },
+    {
+      "turn": 281,
+      "score": 237
+    },
+    {
+      "turn": 388,
+      "score": 247
+    },
+    {
+      "turn": 416,
+      "score": 257
+    },
+    {
+      "turn": 417,
+      "score": 262
+    },
+    {
+      "turn": 418,
+      "score": 268
+    },
+    {
+      "turn": 419,
+      "score": 263
+    },
+    {
+      "turn": 422,
+      "score": 257
+    },
+    {
+      "turn": 442,
+      "score": 282
+    },
+    {
+      "turn": 467,
+      "score": 288
+    },
+    {
+      "turn": 468,
+      "score": 298
+    },
+    {
+      "turn": 473,
+      "score": 303
+    },
+    {
+      "turn": 474,
+      "score": 308
+    },
+    {
+      "turn": 475,
+      "score": 312
+    },
+    {
+      "turn": 476,
+      "score": 317
+    },
+    {
+      "turn": 477,
+      "score": 323
+    },
+    {
+      "turn": 479,
+      "score": 319
+    },
+    {
+      "turn": 480,
+      "score": 313
+    },
+    {
+      "turn": 487,
+      "score": 314
+    },
+    {
+      "turn": 492,
+      "score": 315
+    },
+    {
+      "turn": 493,
+      "score": 319
+    },
+    {
+      "turn": 494,
+      "score": 325
+    },
+    {
+      "turn": 497,
+      "score": 319
+    },
+    {
+      "turn": 569,
+      "score": 324
+    },
+    {
+      "turn": 580,
+      "score": 329
+    },
+    {
+      "turn": 593,
+      "score": 339
+    },
+    {
+      "turn": 594,
+      "score": 344
+    },
+    {
+      "turn": 595,
+      "score": 350
+    }
+  ]
+}

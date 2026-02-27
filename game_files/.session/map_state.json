@@ -1,0 +1,1673 @@
+{
+  "rooms": {
+    "180": {
+      "id": 180,
+      "name": "West House",
+      "exits": [
+        "east",
+        "north",
+        "south",
+        "southwest",
+        "west"
+      ]
+    },
+    "81": {
+      "id": 81,
+      "name": "North House",
+      "exits": [
+        "east",
+        "north",
+        "south"
+      ]
+    },
+    "79": {
+      "id": 79,
+      "name": "Behind House",
+      "exits": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ]
+    },
+    "203": {
+      "id": 203,
+      "name": "Kitchen",
+      "exits": [
+        "east",
+        "up",
+        "west"
+      ]
+    },
+    "193": {
+      "id": 193,
+      "name": "Living ",
+      "exits": [
+        "down",
+        "east",
+        "west"
+      ]
+    },
+    "201": {
+      "id": 201,
+      "name": "Attic",
+      "exits": [
+        "down"
+      ]
+    },
+    "72": {
+      "id": 72,
+      "name": "Cellar",
+      "exits": [
+        "north",
+        "south",
+        "up"
+      ]
+    },
+    "102": {
+      "id": 102,
+      "name": "Troll ",
+      "exits": [
+        "east",
+        "south",
+        "west"
+      ]
+    },
+    "41": {
+      "id": 41,
+      "name": "East-West Passage",
+      "exits": [
+        "down",
+        "east",
+        "west"
+      ]
+    },
+    "107": {
+      "id": 107,
+      "name": "Round ",
+      "exits": [
+        "east",
+        "north",
+        "south",
+        "southeast",
+        "west"
+      ]
+    },
+    "96": {
+      "id": 96,
+      "name": "Engravings Cave",
+      "exits": [
+        "east",
+        "northwest"
+      ]
+    },
+    "133": {
+      "id": 133,
+      "name": "Dome ",
+      "exits": [
+        "down",
+        "west"
+      ]
+    },
+    "105": {
+      "id": 105,
+      "name": "Torch ",
+      "exits": [
+        "down",
+        "up"
+      ]
+    },
+    "220": {
+      "id": 220,
+      "name": "Temple",
+      "exits": [
+        "east",
+        "south",
+        "up"
+      ]
+    },
+    "175": {
+      "id": 175,
+      "name": "Egypti",
+      "exits": [
+        "west"
+      ]
+    },
+    "212": {
+      "id": 212,
+      "name": "Altar",
+      "exits": [
+        "down",
+        "north"
+      ]
+    },
+    "78": {
+      "id": 78,
+      "name": "Forest",
+      "exits": [
+        "east",
+        "north",
+        "south"
+      ]
+    },
+    "75": {
+      "id": 75,
+      "name": "Forest Path",
+      "exits": [
+        "east",
+        "south",
+        "up",
+        "west"
+      ]
+    },
+    "71": {
+      "id": 71,
+      "name": "East Chasm",
+      "exits": [
+        "east",
+        "north"
+      ]
+    },
+    "148": {
+      "id": 148,
+      "name": "Gallery",
+      "exits": [
+        "west"
+      ]
+    },
+    "138": {
+      "id": 138,
+      "name": "Loud ",
+      "exits": [
+        "up",
+        "west"
+      ]
+    },
+    "40": {
+      "id": 40,
+      "name": "Deep Canyon",
+      "exits": [
+        "down",
+        "east",
+        "north",
+        "northwest",
+        "southwest"
+      ]
+    },
+    "50": {
+      "id": 50,
+      "name": "Reservoir South",
+      "exits": [
+        "east",
+        "north",
+        "southeast",
+        "southwest"
+      ]
+    },
+    "215": {
+      "id": 215,
+      "name": "Dam",
+      "exits": [
+        "down",
+        "north",
+        "south",
+        "west"
+      ]
+    },
+    "154": {
+      "id": 154,
+      "name": "Dam Lobby",
+      "exits": [
+        "east",
+        "north",
+        "south"
+      ]
+    },
+    "199": {
+      "id": 199,
+      "name": "Maintenance ",
+      "exits": [
+        "south",
+        "west"
+      ]
+    },
+    "39": {
+      "id": 39,
+      "name": "Damp Cave",
+      "exits": [
+        "east",
+        "up",
+        "west"
+      ]
+    },
+    "38": {
+      "id": 38,
+      "name": "North-South Passage",
+      "exits": [
+        "northeast",
+        "south"
+      ]
+    },
+    "46": {
+      "id": 46,
+      "name": "Cave",
+      "exits": [
+        "down",
+        "north",
+        "up"
+      ]
+    },
+    "232": {
+      "id": 232,
+      "name": "Entrance Hades",
+      "exits": [
+        "south",
+        "up"
+      ]
+    },
+    "230": {
+      "id": 230,
+      "name": "LDead",
+      "exits": [
+        "north"
+      ]
+    },
+    "152": {
+      "id": 152,
+      "name": "Mirror ",
+      "exits": [
+        "north",
+        "south",
+        "west"
+      ]
+    },
+    "44": {
+      "id": 44,
+      "name": "Narrow Passage",
+      "exits": [
+        "north",
+        "south"
+      ]
+    },
+    "88": {
+      "id": 88,
+      "name": "Up a Tree",
+      "exits": [
+        "down"
+      ]
+    },
+    "70": {
+      "id": 70,
+      "name": "Maze",
+      "exits": [
+        "east",
+        "north",
+        "south"
+      ]
+    },
+    "69": {
+      "id": 69,
+      "name": "Maze",
+      "exits": [
+        "east",
+        "north",
+        "south"
+      ]
+    },
+    "68": {
+      "id": 68,
+      "name": "Maze",
+      "exits": [
+        "south",
+        "up",
+        "west"
+      ]
+    },
+    "167": {
+      "id": 167,
+      "name": "Maze",
+      "exits": [
+        "down",
+        "north",
+        "southwest"
+      ]
+    },
+    "37": {
+      "id": 37,
+      "name": "Chasm",
+      "exits": [
+        "northeast",
+        "up"
+      ]
+    },
+    "100": {
+      "id": 100,
+      "name": "Reservoir",
+      "exits": [
+        "north",
+        "south"
+      ]
+    },
+    "172": {
+      "id": 172,
+      "name": "Reservoir North",
+      "exits": [
+        "north",
+        "south"
+      ]
+    },
+    "187": {
+      "id": 187,
+      "name": "Atlant",
+      "exits": [
+        "south",
+        "up"
+      ]
+    },
+    "47": {
+      "id": 47,
+      "name": "Cave",
+      "exits": [
+        "down",
+        "north",
+        "west"
+      ]
+    },
+    "150": {
+      "id": 150,
+      "name": "Mirror ",
+      "exits": [
+        "east",
+        "north",
+        "south",
+        "west"
+      ]
+    },
+    "42": {
+      "id": 42,
+      "name": "Twisting Passage",
+      "exits": [
+        "east",
+        "north"
+      ]
+    },
+    "45": {
+      "id": 45,
+      "name": "Cold Passage",
+      "exits": [
+        "south",
+        "west"
+      ]
+    },
+    "15": {
+      "id": 15,
+      "name": "Slide ",
+      "exits": [
+        "down",
+        "east",
+        "north"
+      ]
+    },
+    "80": {
+      "id": 80,
+      "name": "South House",
+      "exits": [
+        "north",
+        "south",
+        "southeast",
+        "west"
+      ]
+    },
+    "76": {
+      "id": 76,
+      "name": "Forest",
+      "exits": [
+        "north",
+        "northwest",
+        "west"
+      ]
+    },
+    "74": {
+      "id": 74,
+      "name": "Clearing",
+      "exits": [
+        "east",
+        "north",
+        "south",
+        "southeast",
+        "west"
+      ]
+    },
+    "143": {
+      "id": 143,
+      "name": "Clearing",
+      "exits": [
+        "east",
+        "south"
+      ]
+    },
+    "77": {
+      "id": 77,
+      "name": "Forest",
+      "exits": [
+        "south",
+        "west"
+      ]
+    },
+    "25": {
+      "id": 25,
+      "name": "CanyView",
+      "exits": [
+        "down",
+        "northwest",
+        "west"
+      ]
+    },
+    "26": {
+      "id": 26,
+      "name": "Rocky Ledge",
+      "exits": [
+        "down",
+        "up"
+      ]
+    },
+    "27": {
+      "id": 27,
+      "name": "CanyBottom",
+      "exits": [
+        "north",
+        "northeast",
+        "up"
+      ]
+    },
+    "136": {
+      "id": 136,
+      "name": "End Rainbow",
+      "exits": [
+        "south",
+        "southwest"
+      ]
+    },
+    "43": {
+      "id": 43,
+      "name": "Winding Passage",
+      "exits": [
+        "east",
+        "north"
+      ]
+    },
+    "24": {
+      "id": 24,
+      "name": "Mine Entrance",
+      "exits": [
+        "south",
+        "west"
+      ]
+    },
+    "23": {
+      "id": 23,
+      "name": "Squeaky ",
+      "exits": [
+        "east",
+        "north"
+      ]
+    },
+    "222": {
+      "id": 222,
+      "name": "Bat ",
+      "exits": [
+        "east",
+        "south"
+      ]
+    },
+    "226": {
+      "id": 226,
+      "name": "Shaft ",
+      "exits": [
+        "north",
+        "west"
+      ]
+    },
+    "22": {
+      "id": 22,
+      "name": "Smelly ",
+      "exits": [
+        "down",
+        "south"
+      ]
+    },
+    "124": {
+      "id": 124,
+      "name": "Gas ",
+      "exits": [
+        "east",
+        "south",
+        "up"
+      ]
+    },
+    "19": {
+      "id": 19,
+      "name": "Coal Mine",
+      "exits": [
+        "north",
+        "northeast",
+        "west"
+      ]
+    },
+    "18": {
+      "id": 18,
+      "name": "Coal Mine",
+      "exits": [
+        "south",
+        "southeast",
+        "southwest",
+        "west"
+      ]
+    },
+    "17": {
+      "id": 17,
+      "name": "Coal Mine",
+      "exits": [
+        "east",
+        "northwest",
+        "south",
+        "southwest"
+      ]
+    },
+    "16": {
+      "id": 16,
+      "name": "Coal Mine",
+      "exits": [
+        "down",
+        "north",
+        "northeast"
+      ]
+    },
+    "21": {
+      "id": 21,
+      "name": "Ladder Top",
+      "exits": [
+        "down",
+        "up"
+      ]
+    },
+    "20": {
+      "id": 20,
+      "name": "Ladder Bottom",
+      "exits": [
+        "south",
+        "up",
+        "west"
+      ]
+    },
+    "118": {
+      "id": 118,
+      "name": "Dead End",
+      "exits": [
+        "north"
+      ]
+    },
+    "206": {
+      "id": 206,
+      "name": "Timber ",
+      "exits": [
+        "east",
+        "west"
+      ]
+    },
+    "228": {
+      "id": 228,
+      "name": "Drafty ",
+      "exits": [
+        "east",
+        "south"
+      ]
+    },
+    "157": {
+      "id": 157,
+      "name": "Machine ",
+      "exits": [
+        "north"
+      ]
+    },
+    "64": {
+      "id": 64,
+      "name": "Maze",
+      "exits": [
+        "east",
+        "northeast"
+      ]
+    },
+    "63": {
+      "id": 63,
+      "name": "Maze",
+      "exits": [
+        "south",
+        "west"
+      ]
+    },
+    "52": {
+      "id": 52,
+      "name": "Maze",
+      "exits": [
+        "north",
+        "southeast"
+      ]
+    },
+    "185": {
+      "id": 185,
+      "name": "",
+      "exits": [
+        "east",
+        "northwest",
+        "up"
+      ]
+    },
+    "190": {
+      "id": 190,
+      "name": "Treasure ",
+      "exits": [
+        "down"
+      ]
+    },
+    "51": {
+      "id": 51,
+      "name": "Strange Passage",
+      "exits": [
+        "east",
+        "west"
+      ]
+    },
+    "140": {
+      "id": 140,
+      "name": "Dam Base",
+      "exits": [
+        "north",
+        "up"
+      ]
+    },
+    "156": {
+      "id": 156,
+      "name": "magic boat",
+      "exits": []
+    },
+    "33": {
+      "id": 33,
+      "name": "White Cliffs Beach",
+      "exits": [
+        "south",
+        "west"
+      ]
+    },
+    "32": {
+      "id": 32,
+      "name": "White Cliffs Beach",
+      "exits": [
+        "north"
+      ]
+    },
+    "120": {
+      "id": 120,
+      "name": "Sandy Beach",
+      "exits": [
+        "northeast",
+        "south"
+      ]
+    },
+    "126": {
+      "id": 126,
+      "name": "Sandy Cave",
+      "exits": [
+        "southwest"
+      ]
+    },
+    "30": {
+      "id": 30,
+      "name": "Shore",
+      "exits": [
+        "north",
+        "south"
+      ]
+    },
+    "29": {
+      "id": 29,
+      "name": "AragaFalls",
+      "exits": [
+        "north"
+      ]
+    },
+    "178": {
+      "id": 178,
+      "name": "Stone Barrow",
+      "exits": [
+        "northeast"
+      ]
+    }
+  },
+  "room_names": {
+    "180": "West House",
+    "81": "North House",
+    "79": "Behind House",
+    "203": "Kitchen",
+    "193": "Living ",
+    "201": "Attic",
+    "72": "Cellar",
+    "102": "Troll ",
+    "41": "East-West Passage",
+    "107": "Round ",
+    "96": "Engravings Cave",
+    "133": "Dome ",
+    "105": "Torch ",
+    "220": "Temple",
+    "175": "Egypti",
+    "212": "Altar",
+    "78": "Forest",
+    "75": "Forest Path",
+    "71": "East Chasm",
+    "148": "Gallery",
+    "138": "Loud ",
+    "40": "Deep Canyon",
+    "50": "Reservoir South",
+    "215": "Dam",
+    "154": "Dam Lobby",
+    "199": "Maintenance ",
+    "39": "Damp Cave",
+    "38": "North-South Passage",
+    "46": "Cave",
+    "232": "Entrance Hades",
+    "230": "LDead",
+    "152": "Mirror ",
+    "44": "Narrow Passage",
+    "88": "Up a Tree",
+    "70": "Maze",
+    "69": "Maze",
+    "68": "Maze",
+    "167": "Maze",
+    "37": "Chasm",
+    "100": "Reservoir",
+    "172": "Reservoir North",
+    "187": "Atlant",
+    "47": "Cave",
+    "150": "Mirror ",
+    "42": "Twisting Passage",
+    "45": "Cold Passage",
+    "15": "Slide ",
+    "80": "South House",
+    "76": "Forest",
+    "74": "Clearing",
+    "143": "Clearing",
+    "77": "Forest",
+    "25": "CanyView",
+    "26": "Rocky Ledge",
+    "27": "CanyBottom",
+    "136": "End Rainbow",
+    "43": "Winding Passage",
+    "24": "Mine Entrance",
+    "23": "Squeaky ",
+    "222": "Bat ",
+    "226": "Shaft ",
+    "22": "Smelly ",
+    "124": "Gas ",
+    "19": "Coal Mine",
+    "18": "Coal Mine",
+    "17": "Coal Mine",
+    "16": "Coal Mine",
+    "21": "Ladder Top",
+    "20": "Ladder Bottom",
+    "118": "Dead End",
+    "206": "Timber ",
+    "228": "Drafty ",
+    "157": "Machine ",
+    "64": "Maze",
+    "63": "Maze",
+    "52": "Maze",
+    "185": "",
+    "190": "Treasure ",
+    "51": "Strange Passage",
+    "140": "Dam Base",
+    "156": "magic boat",
+    "33": "White Cliffs Beach",
+    "32": "White Cliffs Beach",
+    "120": "Sandy Beach",
+    "126": "Sandy Cave",
+    "30": "Shore",
+    "29": "AragaFalls",
+    "178": "Stone Barrow"
+  },
+  "connections": {
+    "180": {
+      "north": 81,
+      "east": 80,
+      "south": 80,
+      "west": 78,
+      "southwest": 178
+    },
+    "81": {
+      "south": 180,
+      "east": 79,
+      "north": 75
+    },
+    "79": {
+      "west": 203,
+      "south": 80,
+      "north": 81,
+      "east": 74
+    },
+    "203": {
+      "west": 193,
+      "up": 201,
+      "east": 79
+    },
+    "193": {
+      "east": 203,
+      "down": 72,
+      "west": 51
+    },
+    "201": {
+      "down": 203
+    },
+    "72": {
+      "up": 193,
+      "north": 102,
+      "south": 71
+    },
+    "102": {
+      "south": 72,
+      "east": 41,
+      "west": 70
+    },
+    "41": {
+      "west": 102,
+      "east": 107,
+      "down": 37
+    },
+    "107": {
+      "west": 41,
+      "southeast": 96,
+      "east": 138,
+      "north": 38,
+      "south": 44
+    },
+    "96": {
+      "northwest": 107,
+      "east": 133
+    },
+    "133": {
+      "west": 96,
+      "down": 105
+    },
+    "105": {
+      "up": 133,
+      "down": 220
+    },
+    "220": {
+      "up": 105,
+      "east": 175,
+      "south": 212
+    },
+    "175": {
+      "west": 220
+    },
+    "212": {
+      "north": 220,
+      "down": 46
+    },
+    "78": {
+      "east": 75,
+      "south": 76,
+      "north": 143
+    },
+    "75": {
+      "west": 78,
+      "south": 81,
+      "up": 88,
+      "east": 77
+    },
+    "71": {
+      "north": 72,
+      "east": 148
+    },
+    "148": {
+      "west": 71
+    },
+    "138": {
+      "west": 107,
+      "up": 40
+    },
+    "40": {
+      "down": 39,
+      "northwest": 50,
+      "north": 215,
+      "east": 215,
+      "southwest": 38
+    },
+    "50": {
+      "southeast": 40,
+      "east": 215,
+      "southwest": 37,
+      "north": 100
+    },
+    "215": {
+      "west": 50,
+      "north": 154,
+      "south": 40,
+      "down": 140
+    },
+    "154": {
+      "south": 215,
+      "north": 199,
+      "east": 199
+    },
+    "199": {
+      "south": 154,
+      "west": 154
+    },
+    "39": {
+      "up": 40,
+      "west": 40,
+      "east": 33
+    },
+    "38": {
+      "northeast": 40,
+      "south": 107
+    },
+    "46": {
+      "up": 212,
+      "down": 232,
+      "north": 152
+    },
+    "232": {
+      "up": 46,
+      "south": 230
+    },
+    "230": {
+      "north": 232
+    },
+    "152": {
+      "south": 46,
+      "north": 44,
+      "west": 43
+    },
+    "44": {
+      "south": 152,
+      "north": 107
+    },
+    "88": {
+      "down": 75
+    },
+    "70": {
+      "east": 102,
+      "south": 69,
+      "north": 69
+    },
+    "69": {
+      "north": 70,
+      "east": 68,
+      "south": 70
+    },
+    "68": {
+      "west": 69,
+      "up": 167,
+      "south": 167
+    },
+    "167": {
+      "down": 68,
+      "north": 68,
+      "southwest": 64
+    },
+    "37": {
+      "up": 41,
+      "northeast": 50
+    },
+    "100": {
+      "south": 50,
+      "north": 172
+    },
+    "172": {
+      "south": 100,
+      "north": 187
+    },
+    "187": {
+      "south": 172,
+      "up": 47
+    },
+    "47": {
+      "down": 187,
+      "north": 150,
+      "west": 42
+    },
+    "150": {
+      "south": 47,
+      "west": 42,
+      "east": 47,
+      "north": 45
+    },
+    "42": {
+      "east": 47,
+      "north": 150
+    },
+    "45": {
+      "south": 150,
+      "west": 15
+    },
+    "15": {
+      "east": 45,
+      "down": 72,
+      "north": 24
+    },
+    "80": {
+      "north": 79,
+      "south": 76,
+      "southeast": 76,
+      "west": 180
+    },
+    "76": {
+      "north": 74,
+      "northwest": 80,
+      "west": 78
+    },
+    "74": {
+      "south": 76,
+      "north": 77,
+      "east": 25,
+      "southeast": 25,
+      "west": 79
+    },
+    "143": {
+      "south": 78,
+      "east": 77
+    },
+    "77": {
+      "west": 75,
+      "south": 74
+    },
+    "25": {
+      "west": 74,
+      "down": 26,
+      "northwest": 74
+    },
+    "26": {
+      "up": 25,
+      "down": 27
+    },
+    "27": {
+      "up": 26,
+      "north": 136,
+      "northeast": 136
+    },
+    "136": {
+      "south": 27,
+      "southwest": 27
+    },
+    "43": {
+      "east": 152,
+      "north": 152
+    },
+    "24": {
+      "south": 15,
+      "west": 23
+    },
+    "23": {
+      "east": 24,
+      "north": 222
+    },
+    "222": {
+      "south": 23,
+      "east": 226
+    },
+    "226": {
+      "west": 222,
+      "north": 22
+    },
+    "22": {
+      "south": 226,
+      "down": 124
+    },
+    "124": {
+      "up": 22,
+      "east": 19,
+      "south": 19
+    },
+    "19": {
+      "west": 124,
+      "north": 124,
+      "northeast": 18
+    },
+    "18": {
+      "southwest": 19,
+      "southeast": 17,
+      "west": 17,
+      "south": 19
+    },
+    "17": {
+      "northwest": 18,
+      "southwest": 16,
+      "south": 16,
+      "east": 18
+    },
+    "16": {
+      "northeast": 17,
+      "down": 21,
+      "north": 17
+    },
+    "21": {
+      "up": 16,
+      "down": 20
+    },
+    "20": {
+      "up": 21,
+      "south": 118,
+      "west": 206
+    },
+    "118": {
+      "north": 20
+    },
+    "206": {
+      "east": 20,
+      "west": 228
+    },
+    "228": {
+      "east": 206,
+      "south": 157
+    },
+    "157": {
+      "north": 228
+    },
+    "64": {
+      "northeast": 167,
+      "east": 63
+    },
+    "63": {
+      "west": 64,
+      "south": 52
+    },
+    "52": {
+      "north": 63,
+      "southeast": 185
+    },
+    "185": {
+      "northwest": 52,
+      "up": 190,
+      "east": 51
+    },
+    "190": {
+      "down": 185
+    },
+    "51": {
+      "west": 185,
+      "east": 193
+    },
+    "140": {
+      "up": 215,
+      "north": 215
+    },
+    "33": {
+      "south": 32,
+      "west": 39
+    },
+    "32": {
+      "north": 33
+    },
+    "120": {
+      "northeast": 126,
+      "south": 30
+    },
+    "126": {
+      "southwest": 120
+    },
+    "30": {
+      "north": 120,
+      "south": 29
+    },
+    "29": {
+      "north": 30
+    },
+    "178": {
+      "northeast": 180
+    }
+  },
+  "connection_confidence": {
+    "180_north": 1.0,
+    "81_south": 0.9,
+    "81_east": 1.0,
+    "79_west": 1.0,
+    "203_west": 1.0,
+    "193_east": 1.0,
+    "203_up": 1.0,
+    "201_down": 1.0,
+    "193_down": 1.0,
+    "72_up": 1.0,
+    "72_north": 1.0,
+    "102_south": 1.0,
+    "102_east": 1.0,
+    "41_west": 1.0,
+    "41_east": 1.0,
+    "107_west": 1.0,
+    "107_southeast": 1.0,
+    "96_northwest": 0.9,
+    "96_east": 1.0,
+    "133_west": 0.9,
+    "133_down": 1.0,
+    "105_up": 0.9,
+    "105_down": 1.0,
+    "220_up": 0.9,
+    "220_east": 1.0,
+    "175_west": 1.0,
+    "220_south": 1.0,
+    "212_north": 0.9,
+    "78_east": 1.0,
+    "75_west": 0.9,
+    "75_south": 1.0,
+    "81_north": 1.0,
+    "203_east": 1.0,
+    "72_south": 1.0,
+    "71_north": 1.0,
+    "71_east": 1.0,
+    "148_west": 1.0,
+    "107_east": 1.0,
+    "138_west": 0.9,
+    "138_up": 1.0,
+    "40_down": 1.0,
+    "40_northwest": 1.0,
+    "50_southeast": 0.9,
+    "50_east": 1.0,
+    "215_west": 1.0,
+    "215_north": 1.0,
+    "154_south": 1.0,
+    "154_north": 1.0,
+    "199_south": 1.0,
+    "215_south": 1.0,
+    "40_north": 0.9,
+    "40_east": 1.0,
+    "39_up": 0.9,
+    "39_west": 1.0,
+    "40_southwest": 1.0,
+    "38_northeast": 0.9,
+    "38_south": 1.0,
+    "107_north": 0.9,
+    "212_down": 1.0,
+    "46_up": 0.9,
+    "46_down": 1.0,
+    "232_up": 1.0,
+    "232_south": 1.0,
+    "230_north": 1.0,
+    "46_north": 1.0,
+    "152_south": 0.9,
+    "152_north": 1.0,
+    "44_south": 0.9,
+    "44_north": 1.0,
+    "107_south": 0.9,
+    "88_down": 1.0,
+    "75_up": 0.9,
+    "102_west": 1.0,
+    "70_east": 1.0,
+    "70_south": 1.0,
+    "69_north": 0.9,
+    "69_east": 1.0,
+    "68_west": 1.0,
+    "68_up": 1.0,
+    "167_down": 0.9,
+    "167_north": 1.0,
+    "68_south": 0.9,
+    "69_south": 1.0,
+    "70_north": 0.9,
+    "41_down": 1.0,
+    "37_up": 1.0,
+    "37_northeast": 1.0,
+    "50_southwest": 1.0,
+    "50_north": 1.0,
+    "100_south": 1.0,
+    "100_north": 1.0,
+    "172_south": 1.0,
+    "172_north": 1.0,
+    "187_south": 1.0,
+    "187_up": 1.0,
+    "47_down": 1.0,
+    "47_north": 1.0,
+    "150_south": 0.9,
+    "150_west": 1.0,
+    "42_east": 1.0,
+    "42_north": 1.0,
+    "150_east": 1.0,
+    "47_west": 1.0,
+    "150_north": 1.0,
+    "45_south": 1.0,
+    "45_west": 1.0,
+    "15_east": 1.0,
+    "15_down": 1.0,
+    "79_south": 1.0,
+    "80_north": 0.9,
+    "80_south": 1.0,
+    "76_north": 1.0,
+    "74_south": 1.0,
+    "76_northwest": 1.0,
+    "80_southeast": 0.9,
+    "80_west": 1.0,
+    "180_east": 0.9,
+    "180_south": 1.0,
+    "180_west": 1.0,
+    "78_south": 1.0,
+    "76_west": 1.0,
+    "78_north": 1.0,
+    "143_south": 0.9,
+    "143_east": 1.0,
+    "77_west": 1.0,
+    "77_south": 1.0,
+    "74_north": 1.0,
+    "74_east": 1.0,
+    "25_west": 0.9,
+    "25_down": 1.0,
+    "26_up": 1.0,
+    "26_down": 1.0,
+    "27_up": 1.0,
+    "27_north": 1.0,
+    "136_south": 0.9,
+    "136_southwest": 1.0,
+    "27_northeast": 0.9,
+    "25_northwest": 1.0,
+    "74_southeast": 0.9,
+    "75_east": 0.9,
+    "79_north": 1.0,
+    "152_west": 1.0,
+    "43_east": 0.9,
+    "43_north": 1.0,
+    "15_north": 1.0,
+    "24_south": 1.0,
+    "24_west": 1.0,
+    "23_east": 1.0,
+    "23_north": 1.0,
+    "222_south": 1.0,
+    "222_east": 1.0,
+    "226_west": 1.0,
+    "226_north": 1.0,
+    "22_south": 1.0,
+    "22_down": 1.0,
+    "124_up": 1.0,
+    "124_east": 1.0,
+    "19_west": 0.9,
+    "19_north": 1.0,
+    "124_south": 0.9,
+    "19_northeast": 1.0,
+    "18_southwest": 0.9,
+    "18_southeast": 1.0,
+    "17_northwest": 0.9,
+    "17_southwest": 1.0,
+    "16_northeast": 0.9,
+    "16_down": 1.0,
+    "21_up": 1.0,
+    "21_down": 1.0,
+    "20_up": 1.0,
+    "20_south": 1.0,
+    "118_north": 1.0,
+    "20_west": 1.0,
+    "206_east": 1.0,
+    "206_west": 1.0,
+    "228_east": 1.0,
+    "228_south": 1.0,
+    "157_north": 1.0,
+    "16_north": 1.0,
+    "17_south": 0.9,
+    "17_east": 1.0,
+    "18_west": 0.9,
+    "18_south": 1.0,
+    "167_southwest": 1.0,
+    "64_northeast": 0.9,
+    "64_east": 1.0,
+    "63_west": 0.9,
+    "63_south": 1.0,
+    "52_north": 0.9,
+    "52_southeast": 1.0,
+    "185_northwest": 0.9,
+    "185_up": 1.0,
+    "190_down": 1.0,
+    "185_east": 1.0,
+    "51_west": 1.0,
+    "51_east": 1.0,
+    "193_west": 1.0,
+    "79_east": 1.0,
+    "74_west": 1.0,
+    "215_down": 1.0,
+    "140_up": 1.0,
+    "140_north": 1.0,
+    "154_east": 1.0,
+    "199_west": 0.9,
+    "33_south": 1.0,
+    "32_north": 1.0,
+    "33_west": 1.0,
+    "39_east": 1.0,
+    "120_northeast": 1.0,
+    "126_southwest": 1.0,
+    "120_south": 1.0,
+    "30_north": 0.9,
+    "30_south": 1.0,
+    "29_north": 0.9,
+    "180_southwest": 1.0,
+    "178_northeast": 0.9
+  },
+  "connection_verifications": {
+    "180_north": 1,
+    "81_south": 1,
+    "81_east": 5,
+    "79_west": 6,
+    "203_west": 9,
+    "193_east": 7,
+    "203_up": 2,
+    "201_down": 3,
+    "193_down": 9,
+    "72_up": 6,
+    "72_north": 7,
+    "102_south": 2,
+    "102_east": 6,
+    "41_west": 2,
+    "41_east": 4,
+    "107_west": 2,
+    "107_southeast": 4,
+    "96_northwest": 1,
+    "96_east": 4,
+    "133_west": 1,
+    "133_down": 4,
+    "105_up": 1,
+    "105_down": 4,
+    "220_up": 1,
+    "220_east": 3,
+    "175_west": 4,
+    "220_south": 4,
+    "212_north": 1,
+    "78_east": 2,
+    "75_west": 1,
+    "75_south": 4,
+    "81_north": 2,
+    "203_east": 5,
+    "72_south": 1,
+    "71_north": 2,
+    "71_east": 1,
+    "148_west": 2,
+    "107_east": 2,
+    "138_west": 1,
+    "138_up": 2,
+    "40_down": 1,
+    "40_northwest": 1,
+    "50_southeast": 1,
+    "50_east": 3,
+    "215_west": 3,
+    "215_north": 3,
+    "154_south": 4,
+    "154_north": 2,
+    "199_south": 4,
+    "215_south": 2,
+    "40_north": 1,
+    "40_east": 2,
+    "39_up": 1,
+    "39_west": 1,
+    "40_southwest": 1,
+    "38_northeast": 1,
+    "38_south": 1,
+    "107_north": 1,
+    "212_down": 2,
+    "46_up": 1,
+    "46_down": 1,
+    "232_up": 2,
+    "232_south": 1,
+    "230_north": 2,
+    "46_north": 2,
+    "152_south": 1,
+    "152_north": 2,
+    "44_south": 1,
+    "44_north": 2,
+    "107_south": 1,
+    "88_down": 1,
+    "75_up": 1,
+    "102_west": 2,
+    "70_east": 2,
+    "70_south": 2,
+    "69_north": 1,
+    "69_east": 2,
+    "68_west": 2,
+    "68_up": 2,
+    "167_down": 1,
+    "167_north": 1,
+    "68_south": 1,
+    "69_south": 1,
+    "70_north": 1,
+    "41_down": 3,
+    "37_up": 2,
+    "37_northeast": 3,
+    "50_southwest": 2,
+    "50_north": 4,
+    "100_south": 3,
+    "100_north": 4,
+    "172_south": 3,
+    "172_north": 3,
+    "187_south": 2,
+    "187_up": 3,
+    "47_down": 2,
+    "47_north": 4,
+    "150_south": 1,
+    "150_west": 2,
+    "42_east": 1,
+    "42_north": 2,
+    "150_east": 2,
+    "47_west": 1,
+    "150_north": 3,
+    "45_south": 2,
+    "45_west": 3,
+    "15_east": 2,
+    "15_down": 2,
+    "79_south": 2,
+    "80_north": 1,
+    "80_south": 1,
+    "76_north": 1,
+    "74_south": 2,
+    "76_northwest": 1,
+    "80_southeast": 1,
+    "80_west": 3,
+    "180_east": 1,
+    "180_south": 1,
+    "180_west": 1,
+    "78_south": 1,
+    "76_west": 1,
+    "78_north": 1,
+    "143_south": 1,
+    "143_east": 1,
+    "77_west": 1,
+    "77_south": 2,
+    "74_north": 3,
+    "74_east": 1,
+    "25_west": 1,
+    "25_down": 1,
+    "26_up": 3,
+    "26_down": 1,
+    "27_up": 3,
+    "27_north": 1,
+    "136_south": 1,
+    "136_southwest": 2,
+    "27_northeast": 1,
+    "25_northwest": 2,
+    "74_southeast": 1,
+    "75_east": 1,
+    "79_north": 1,
+    "152_west": 1,
+    "43_east": 1,
+    "43_north": 1,
+    "15_north": 2,
+    "24_south": 3,
+    "24_west": 2,
+    "23_east": 3,
+    "23_north": 2,
+    "222_south": 3,
+    "222_east": 2,
+    "226_west": 3,
+    "226_north": 3,
+    "22_south": 4,
+    "22_down": 3,
+    "124_up": 4,
+    "124_east": 4,
+    "19_west": 1,
+    "19_north": 4,
+    "124_south": 1,
+    "19_northeast": 3,
+    "18_southwest": 1,
+    "18_southeast": 3,
+    "17_northwest": 1,
+    "17_southwest": 3,
+    "16_northeast": 1,
+    "16_down": 3,
+    "21_up": 4,
+    "21_down": 3,
+    "20_up": 4,
+    "20_south": 1,
+    "118_north": 2,
+    "20_west": 3,
+    "206_east": 4,
+    "206_west": 3,
+    "228_east": 4,
+    "228_south": 3,
+    "157_north": 4,
+    "16_north": 3,
+    "17_south": 1,
+    "17_east": 3,
+    "18_west": 1,
+    "18_south": 3,
+    "167_southwest": 1,
+    "64_northeast": 1,
+    "64_east": 1,
+    "63_west": 1,
+    "63_south": 1,
+    "52_north": 1,
+    "52_southeast": 1,
+    "185_northwest": 1,
+    "185_up": 2,
+    "190_down": 3,
+    "185_east": 3,
+    "51_west": 3,
+    "51_east": 2,
+    "193_west": 2,
+    "79_east": 1,
+    "74_west": 3,
+    "215_down": 3,
+    "140_up": 2,
+    "140_north": 1,
+    "154_east": 1,
+    "199_west": 1,
+    "33_south": 1,
+    "32_north": 2,
+    "33_west": 1,
+    "39_east": 2,
+    "120_northeast": 1,
+    "126_southwest": 2,
+    "120_south": 1,
+    "30_north": 1,
+    "30_south": 1,
+    "29_north": 1,
+    "180_southwest": 1,
+    "178_northeast": 1
+  },
+  "exit_failure_counts": {},
+  "pruned_exits": {},
+  "metadata": {
+    "version": "1.0",
+    "total_rooms": 88,
+    "total_connections": 216,
+    "timestamp": "2026-02-27T04:19:08.007955+00:00"
+  }
+}
